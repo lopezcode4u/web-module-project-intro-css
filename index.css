@@ -41,3 +41,19 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+* {
+    font-family: 'Roboto Mono', monospace;
+}
+
+.plan {
+    background-color: #FF764E;
+}
+.learn {
+    background-color: #5ED3EB;
+}
+.involved {
+    background-color: #FFCD69;
+}
+h1 {
+    font-family: 'Chelsea Market', cursive;
+}
