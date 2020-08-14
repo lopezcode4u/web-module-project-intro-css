@@ -6,7 +6,7 @@
 }
 body, html {
     text-align: center;
-    
+    font-size: 62.5%;
 
     }
 
@@ -28,6 +28,7 @@ h1 {
 }
 .footer {
     background-color: #F9E7DC;
+    
 }
  .second-section {
     background-color: #DDB9A3;
@@ -36,7 +37,8 @@ h1 {
     text-align: center;
     display: block;
     padding: 0; 
-    width: 70%;
+    width: 85%;
+    margin: 0 0 0 10%;
 }
     
     
@@ -64,13 +66,16 @@ h1 {
     margin: 10% 0 0 0;
 }
 .first-section h1 {
-    font-size: xx-large;
+    font-size: 4rem;
     
      
     
 }
 .footer-img img {
     width: 100%;
+    padding: 0 0 10% 0;
+    
+
     
     
 }
